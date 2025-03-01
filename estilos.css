@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif; /* Establece la fuente para el texto */
+    background-color: #f1f1f1; /* Fondo suave para la página */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center; /* Centra el texto */
+    color: #4a4a4a; /* Color del texto en gris oscuro */
+    background-color: #a3c2c2; /* Fondo azul claro y suave para el título */
+    padding: 20px; /* Espacio dentro del título */
+    border-radius: 8px; /* Bordes redondeados */
+    margin-top: 50px; /* Separación del borde superior */
+}
